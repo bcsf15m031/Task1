@@ -42,16 +42,10 @@
 	<body onload="Main();">
 		<ul>
   <li><a href="login.php">Home</a></li>
-  <li><a href="usermanagement.php">User Management</a></li>
-   <li><a href="rolemanagement.php">Role Management</a></li>
-  <li><a href="permissionmanagement.php">Permission Management</a></li>
-   <li><a href="rolepermissionmanagement.php">Role / Permisssion Management</a></li>
-  <li><a href="userrolemanagement.php">User Role Management</a></li>
-   <li><a href="login.php">Logout</a></li>
+     <li><a href="login.php">Logout</a></li>
     </div>
   </li>
 </ul>
 		
-		<h1>Welcome Home!</h1>
-		<a href="login.php">Logout</a>
+		<h1>WELLCOME USER!</h1>
 		<div id="rolePermissions"></div>
